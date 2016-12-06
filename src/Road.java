@@ -38,8 +38,9 @@ public class Road {
     public int getLength() {
         return this.length;
     }
+
     @Override
-    public String toString(){
-        return cityStart+" "+cityFinish+" "+length;
+    public String toString() {
+        return cityStart + " " + cityFinish + " " + length;
     }
 }

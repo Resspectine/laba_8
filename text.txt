@@ -1,2 +1,6 @@
 Minsk Grodno 123
 Grodno Gomel 1443
+Gomel Minsk 322
+Grodno Mogilev 158
+Minsk Mogilev 481
+Gomel Mogilev 345
